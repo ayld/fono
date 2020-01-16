@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: fono
+fono:
+  token: c8a51910f91d4825b62cd6f33ffcddb6cf2e4a4690d4d735
+server:
+  servlet:
+    context-path: /device
